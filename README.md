@@ -1,4 +1,4 @@
-![logo]([https://github.com/Saffetdmr7/profil/blob/main/Ads%C4%B1z%20tasar%C4%B1m.png](https://github.com/Saffetdmr7/profil/blob/main/zyro-image.png))
+![logo](https://github.com/Saffetdmr7/profil/blob/main/Ads%C4%B1z%20tasar%C4%B1m.png)
 <h1 align="center">Hi 👋, I'm Saffet Demir</h1>
 <h3 align="center">A passionate Web backend developer from Turkey</h3>
 
