@@ -26,4 +26,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saffetdmr7&" alt="saffetdmr7" /></p>
 
 
-![snake gif](https://github.com/saffetdmr7/saffetdmr7/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saffetdmr7/saffetdmr7/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saffetdmr7/saffetdmr7/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/saffetdmr7/saffetdmr7/output/github-contribution-grid-snake.svg">
+</picture>
