@@ -1,4 +1,4 @@
-![logo](https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png)
+![logo](https://drive.google.com/file/d/1ddJS9wS8xQMnyI5ZYybtdFtgg--__3EY/view?usp=sharing)
 <h1 align="center">Hi 👋, I'm Saffet Demir</h1>
 <h3 align="center">A passionate Web backend developer from Turkey</h3>
 
